@@ -1,0 +1,12 @@
+pytest
+pytest-pycodestyle
+flask
+pymongo
+pymodm
+requests
+requests-mock
+dnspython
+Pillow
+numpy
+matplotlib
+scipy
